@@ -13,6 +13,7 @@ Exploratory Data Analysis on IPL matches from 2008-2017
 - Toss Win Percentage
 - Pivot Table - toss decision vs wins
 - Merge Analysis - top run scorers, wicket takers
+- top bowler analysis
 
 ## Tools Used
 Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab
