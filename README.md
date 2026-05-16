@@ -16,3 +16,11 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab
 - Filled missing winner with 'No Result' (abandoned matches)
 - Filled missing player_of_match with 'No Result'
 - Removed single row with missing umpire data
+
+## Analysis Done
+- GroupBy Analysis — top teams, players, cities
+- Toss win percentage per team
+- Pivot table — toss decision vs match wins
+- Merged match and delivery data for player analysis
+- Top 10 run scorers and wicket takers
+- Season wise champions (2008-2017)
