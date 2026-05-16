@@ -40,3 +40,22 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab
 - Gautam Gambhir is the best powerplay batsman with 2213 runs in overs 1-6
 - R Ashwin has the best powerplay bowling average (20.9) with 20+ wickets
 - Most teams win more by fielding after winning toss — except CSK
+
+## Project Structure
+IPL_match_analysis/
+├── data/
+│   ├── matches.csv
+│   └── deliveries.csv
+├── IPL_analysis.ipynb
+└── README.md
+
+## How To Run
+1. Clone the repository
+2. Open IPL_analysis.ipynb in Google Colab or Jupyter
+3. Upload matches.csv and deliveries.csv from data folder
+4. Run all cells in order
+
+## Future Work
+- ML model to predict match winner
+- Player performance dashboard
+- Season by season trend analysis
