@@ -30,3 +30,13 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab
 - Best powerplay bowling average (min 20 wickets)
 - Death overs (16-20) team performance
 - Most sixes by batsman
+
+## Key Insights
+- Mumbai Indians are the most consistent team — best at both defending and chasing
+- Chennai Super Kings win more by defending — strongest when batting first
+- Kolkata Knight Riders are the best chasing team in IPL history
+- Chris Gayle hit 266 sixes — nearly 100 more than anyone else
+- Sunil Narine has the best economy rate (6.26) among bowlers with 500+ balls
+- Gautam Gambhir is the best powerplay batsman with 2213 runs in overs 1-6
+- R Ashwin has the best powerplay bowling average (20.9) with 20+ wickets
+- Most teams win more by fielding after winning toss — except CSK
