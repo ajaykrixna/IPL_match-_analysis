@@ -24,3 +24,9 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab
 - Merged match and delivery data for player analysis
 - Top 10 run scorers and wicket takers
 - Season wise champions (2008-2017)
+- Defending vs chasing wins per team
+- Best powerplay batsmen (overs 1-6)
+- Bowler economy rate (min 500 balls)
+- Best powerplay bowling average (min 20 wickets)
+- Death overs (16-20) team performance
+- Most sixes by batsman
